@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The execution of the 11 prisoners that suffer'd at Tyburn, and one in Little-Brittain, on Wednesday the 22th of this instant January, 1679 With the manner of their behaviour in Newgate before execution. Viz. Rich Mills, John Butler, William Brown, Christopher Brunker, George Kenyon, all of them for a robbery in Hatton-Garden. William Adkins, Anthony Tyler, for a burglary. Francis Jones, for a burglary. Timothy Smith, Margaret Wallis, for a burglary in the Strand. William Brain, for horse-stealing. Robt. Freeman, for shooting his master. With the description of every mans fact for which he dyed. VVith allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39046</idno>
+            <idno type="STC">Wing E3854A</idno>
+            <idno type="STC">ESTC R215029</idno>
+            <idno type="EEBO-CITATION">99827027</idno>
+            <idno type="PROQUEST">99827027</idno>
+            <idno type="VID">31439</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39046)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31439)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1884:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The execution of the 11 prisoners that suffer'd at Tyburn, and one in Little-Brittain, on Wednesday the 22th of this instant January, 1679 With the manner of their behaviour in Newgate before execution. Viz. Rich Mills, John Butler, William Brown, Christopher Brunker, George Kenyon, all of them for a robbery in Hatton-Garden. William Adkins, Anthony Tyler, for a burglary. Francis Jones, for a burglary. Timothy Smith, Margaret Wallis, for a burglary in the Strand. William Brain, for horse-stealing. Robt. Freeman, for shooting his master. With the description of every mans fact for which he dyed. VVith allowance.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "William Adkins .. Tyler" and the words "Timothy .. Wallis are bracketed together.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners --  England --  Early works to 1800.</term>
+               <term>Execution and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31439:1" rendition="simple:additions"/>
+            <p>THE EXECUTION Of the 11 Priſoners that ſuffer'd at TYBURN, And one in Little-Brittain, On <hi>Wedneſday</hi> the <hi>22th</hi> of this Inſtant <hi>January,</hi> 1679. With the man<g ref="char:EOLhyphen"/>ner of their behaviour in <hi>Newgate</hi> before Execution. <hi>Viz.</hi>
+            </p>
+            <p>
+               <hi>Rich. Mills, John Butler, William Brown, Chriſtopher Brunker, George Kenyon,</hi> all of them for a Robbery in <hi>Hatton-Garden.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>William Adkins,</hi> For a Burglary.</item>
+               <item>
+                  <hi>Anthony Tyler,</hi> For a Burglary.</item>
+               <item>
+                  <hi>Francis Jones,</hi> For a Burglary.</item>
+               <item>
+                  <hi>Timothy Smith,</hi> For a Burglary in the <hi>Strand.</hi>
+               </item>
+               <item>
+                  <hi>Margaret Wallis,</hi> For a Burglary in the <hi>Strand.</hi>
+               </item>
+               <item>
+                  <hi>William Brain,</hi> For Horſe-ſtealing.</item>
+               <item>
+                  <hi>Robt. Freeman,</hi> For ſhooting his Maſter.</item>
+            </list>
+            <p>WITH The deſcription of every Mans Fact for which he dyed.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>VVith Allowance.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>D. M.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="execution_account">
+            <pb facs="tcp:31439:2"/>
+            <pb n="3" facs="tcp:31439:2"/>
+            <head>The Confeſſion and Execution of the Priſoners that were executed at <hi>Tyburn</hi> on <hi>Wedneſday</hi> the <hi>22th</hi> of this Inſtant <hi>January. 1679.</hi>
+            </head>
+            <p>IT would almoſt amaze a ſerious thought to conſider with what head-long fury ſome men attempt their own deſtruction, even to throw themſelves into the gaping Jaws of ruine, and ſpur that Fate, which of it ſelf too ſwiftly hurries on, and winds away the ſhort-ſpan'd Clue of their diſaſtered Lives; they ſin ſecure, and never dream of Ills whiles Juſtice whets his Sword and gives command to Time, who orders Death with his ſup<g ref="char:EOLhyphen"/>preſſing ſhafts, to put a period to their impious Crimes, and ſtay their full Career with a diſgrace<g ref="char:EOLhyphen"/>ful end: And yet we can but pity their untimely tranſmigrations from this lower World, if we re<g ref="char:EOLhyphen"/>flect
+<pb n="4" facs="tcp:31439:3"/>upon them with impartial thoughts, conſider<g ref="char:EOLhyphen"/>ing they are our Fellow-Creatures, caſt in Natures Mold, the ſame by Heaven made, but yet depraved and made more vile by that deceiving power who dwells in darkneſs, and delights to work on eaſie Souls, and ſnare them with his wiles, and chain them faſt till Juſtice ſtrikes the blow; and then, except they timely do repent, and cloſe with yielding mer<g ref="char:EOLhyphen"/>cy, they are too ſure his own. But let us not be o<g ref="char:EOLhyphen"/>ver raſh, for the Almighty's goodneſs is as boundleſs as his power, and he can ſave unto the utmoſt all that come unto him, nor will he caſt them of, if by ſincere contrition they return and claim his gracious promiſe; and yet 'tis dangerous ſo to linger till the utmoſt moment twinckles an Eternity, to ſtand up<g ref="char:EOLhyphen"/>on the verge of Flames beneath, yet think to reach the Stars, Face Death with joyful expectations, whoſe dread <hi>Menaces</hi> can yield them nought but Terrours; yet ſuch preſumptions have too oft deceived careleſs men, and Satans guilded Bates been luſcious poyſon to their pleaſing taſts, too oft indulged them in their darling ſins, and with deluſions, under ſpecious forms of intereſt, profit, or of growing great, o<g ref="char:EOLhyphen"/>ver-powered their craving wills, which before were prone enough to cloſe with ſuch alluring Cheats. But I ſuppoſe the nature of Malefactors is ſo amply known, I need not much inlarge upon the ſubject; for why, they are moſt of them men of lend Con<g ref="char:EOLhyphen"/>verſations, for the greateſt part, who firſt moſt com<g ref="char:EOLhyphen"/>monly begin with Crimes of a ſmaller note, and by
+<pb n="5" facs="tcp:31439:3"/>degrees emboldened in the curſed Trade, they tram<g ref="char:EOLhyphen"/>ple upon fear and ſtifle all remorſe; a ſympathy ſo frequently obſerved in their inſolent behaviours, who often have been known, when in their In<g ref="char:EOLhyphen"/>fancy, to ſcoff at Admonitions, and make a jeſt of Piety, but this is only when they are free and unre<g ref="char:EOLhyphen"/>ſtrained, roving to and fro, as Sacred Writ makes mention, to mark out houſes for themſelves in the day-time, ſo that when darkneſs comes they may break through; but when they are ſhackled by Ju<g ref="char:EOLhyphen"/>ſtice, and the ends of all their courſes come before their Eyes, then they are of other minds, and often make their pious departure to another life, as I que<g ref="char:EOLhyphen"/>ſtion not but ſome of theſe untimely Wretches (of which I here intend to treat) have done: The firſt of which in order were <hi>William Adkins</hi> and <hi>Anthony Tyler,</hi> who were indicted for Burglary, were found guilty and ſentenced accordingly; they were both old Offenders, eſpecially the former, for he had been once before condemned, twice burnt in the hand, once in <hi>London,</hi> and once in <hi>Maidſton,</hi> at the Aſ<g ref="char:EOLhyphen"/>ſizes held for the County of <hi>Kent,</hi> and were now Executed for breaking open a houſe in <hi>White-Chap<g ref="char:EOLhyphen"/>pel;</hi> to ſee the inevitableneſs of Fate, for as the ancient Proverb moſt truly denotes, <hi>The Pitcher that goes often to the water at laſt returns broken home:</hi> So it appeared in the Cataſtrophe of theſe Offenders, who, after a long practice of their Helliſh Trade, were intercepted by Juſtice; they confeſſed the
+<pb n="6" facs="tcp:31439:4"/>Fact, and bewailed their former leud-vices, their ends were reaſonably penitent.</p>
+            <p>The next were <hi>Richard Mills, John Butler, Alias Armſtrong,</hi> and <hi>William Brown, Chriſtopher Brunker</hi> and <hi>George Kenyon;</hi> theſe were the notorious Of<g ref="char:EOLhyphen"/>fenders that robbed the houſe in <hi>Hatton-Garden</hi> after the neweſt faſhion that has been heard of in any Modern Age, for going accouter'd in the habil<g ref="char:EOLhyphen"/>laments of Trained-band Souldiers, pretending or<g ref="char:EOLhyphen"/>ders to ſearch for Recuſants, whileſt ſome detained the people of the houſe, the other robbed it of Plate, Moneys, Rings, <hi>&amp;c.</hi> to a conſiderable value, for which they were found guilty and ſentene'd ac<g ref="char:EOLhyphen"/>cordingly: One of theſe, <hi>viz. Butler, Alias Arm<g ref="char:EOLhyphen"/>ſtrong</hi> had formerly been in a Robbery with <hi>Thomas Sadler,</hi> for which <hi>Munday, Tatnam,</hi> and others, were formerly Executed. <hi>Brunker</hi> was a Purſer of a Ship, but was never known to have been in <hi>New<g ref="char:EOLhyphen"/>gate</hi> before, as likewiſe <hi>Mills</hi> and <hi>Brown,</hi> but they all confeſſed they had been vile livers, and deſired people to take warning by their untimely end; and eſpecially to be cautious how they were drawn into bad Company, the which had been the cauſe, and chiefeſt Inſtrument, of their diſgrace and ruin.</p>
+            <p>
+               <hi>Robert Freeman,</hi> who was indicted for killing his Maſter, he was brought in by the Grand Inqueſt Guilty of willful murder, and accordingly ſentenced, and this morning, about Nine of the Clock, drawn upon a Sledge to <hi>Little-Brittain,</hi> a Gibbit being there ſet up, before his Exeoution he was very pe<g ref="char:EOLhyphen"/>nitent,
+<pb n="7" facs="tcp:31439:4"/>but would in no wiſe, to the very laſt mo<g ref="char:EOLhyphen"/>ment of his Life, confeſs the Crime, he was ſolicited often and preſſed upon by many Miniſters.</p>
+            <p>The next was <hi>Anne Sly</hi> for murdering her Child, the which after its barbarous Execution ſhe cloſed in her Box, thinking ſo to ſecure the Crime; but that ſin which ſeldom is long concealed, in ſpight of all the cunning was brought in Guilty, but was graciouſly reprieved.</p>
+            <p>The next was one <hi>William Brain,</hi> who was in<g ref="char:EOLhyphen"/>dicted for that Ancient and ſo long practiſed Trade of Horſe-ſtealing, and was found guilty, and this day Executed; he ſeemed in outward appearance to be very ſenſible of his latter end.</p>
+            <p>The next was <hi>Francis Jones,</hi> for a Burglary; It was proved againſt him plainly, he could not deny the Fact; wherefore he was found Guilty by the Jury, and ſuffered for the ſame.</p>
+            <p>
+               <hi>Timothy Smith,</hi> and <hi>Margaret Wallis,</hi> were found Guilty of a Burglary for breaking open ſeveral Locks in the <hi>Strand;</hi> the latter, having been an old offen<g ref="char:EOLhyphen"/>der, and having been before in <hi>Newgate,</hi> is ſuppos'd ſhe might intice the former into the Action, the which proved deſtructive to them both; they were both reaſonably penitent.</p>
+            <p>The next in this fatal Cataſtrophe was <hi>John Hol<g ref="char:EOLhyphen"/>land,</hi>
+               <pb n="8" facs="tcp:31439:5"/>for ſtealing of ſeveral Horſes; he had been an old Offender; and for long time uſed the fatal em<g ref="char:EOLhyphen"/>ploy; he had been burnt in the hand at the <hi>Surry</hi> Aſſizes: he was condemned, but received a gracious reprieve.</p>
+            <p>And now one would think theſe lamentable and to be deplored Miſcreants ſhould be as ſo many Ex<g ref="char:EOLhyphen"/>amples or Trophies of offended Juſtice, to warn, or rather reſtrain, all lend perſons from their evil courſe, that they may turn back from thoſe perni<g ref="char:EOLhyphen"/>cious pathes, that tend to Death and Hell.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
